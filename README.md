@@ -1,11 +1,12 @@
 # redux-toolkit-vs-axmit-redux-communications
 This repository provides an alternative implementation of the example from the redux-toolkit manual using @axmit/redux-communications.
 
-Live demo:
+###Live demo:
+https://codesandbox.io/s/unruffled-bird-j8f7s
 
-
-See for more details:
+###See for more details:
 https://github.com/itershukov/redux-communications
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
